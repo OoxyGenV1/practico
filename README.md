@@ -16,3 +16,4 @@ npx gh-pages -d .
 - [x] tarea 1
 - [ ] tarea 2
 - [ ] tarea 3
+- [ ] tarea 4
