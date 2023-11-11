@@ -5,6 +5,7 @@
 ---
 
 - Primer punto.
+- **``Mi segundo punto``** de ejemplo
 
 ```cmd
 npx gh-pages -d .
